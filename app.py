@@ -4,14 +4,6 @@ import pickle
 import numpy as np
 import requests
 from datetime import date, timedelta
-import os
-
-if not os.path.exists('model_week1.pkl'):
-    exec(open('Week1.py').read())
-    exec(open('Week2.py').read())
-    exec(open('Week3.py').read())
-    exec(open('Week4.py').read())
-
 
 market_coords = {
     'Agra APMC':     (27.1767, 78.0081),

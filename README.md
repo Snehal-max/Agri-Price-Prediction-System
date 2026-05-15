@@ -1,20 +1,20 @@
-# 🌾 Agri Price Prediction System
+# Agri Price Prediction System
  
 An AI-powered crop price forecasting system that helps farmers make smarter selling decisions by predicting market prices up to 4 weeks ahead.
  
 ---
  
-## 🚀 Live Demo
+## Live Demo
 👉 [Click here to open the app](https://agri-price-prediction-system-z6auo23a9yd7otnqqwjtoe.streamlit.app/)
  
 ---
  
-## 📌 Problem Statement
+## Problem Statement
 Indian farmers lose **20-30% of potential income** due to poor market timing. With over 7,000 APMCs across India, price volatility driven by seasonal demand, rainfall, and arrival quantities makes it nearly impossible for smallholder farmers to decide **when** and **where** to sell their produce.
  
 ---
  
-## 💡 Solution
+## Solution
 A **Random Forest-based multi-model prediction engine** that forecasts crop modal prices for **Weeks 1 through 4** ahead of harvest. The system uses:
 - Commodity type & market location
 - Arrival quantity
@@ -22,7 +22,7 @@ A **Random Forest-based multi-model prediction engine** that forecasts crop moda
 - Current modal price
 ---
  
-## 🧠 How It Works
+## How It Works
  
 ```
 Harvest Date → Weather API → Rainfall → ML Model → Price Prediction
@@ -36,7 +36,7 @@ Harvest Date → Weather API → Rainfall → ML Model → Price Prediction
 4. App recommends the **best week to sell** with expected % gain
 ---
  
-## 📊 Features
+## Features
  
 | Feature | Description |
 |---------|-------------|
@@ -48,7 +48,7 @@ Harvest Date → Weather API → Rainfall → ML Model → Price Prediction
  
 ---
  
-## 🗂️ Project Structure
+## Project Structure
  
 ```
 AXILLA Final/
@@ -82,7 +82,7 @@ pip install -r requirements.txt
 ```
  
 ### 3. Download the dataset
-Download `data.csv` from [Google Drive](#) and place it in the root folder.
+Download `data.csv` from the root folder.
  
 ### 4. Train the models
 ```bash
@@ -130,20 +130,20 @@ matplotlib
  
 ---
  
-## 👥 Team
+## Team
  
 **Team AXILLA**
 ---
  
-## 📈 Expected Impact
+## Expected Impact
  
-- 📊 **15-25%** income increase for smallholder farmers
-- 🏪 **7,000+** APMCs scalable to
-- 📅 **4 weeks** forecast horizon
-- 🌾 Reduces dependence on middlemen
+- **15-25%** income increase for smallholder farmers
+- **7,000+** APMCs scalable to
+- **4 weeks** forecast horizon
+- Reduces dependence on middlemen
 ---
  
-## 🏆 Innovation Poster
+## Innovation Poster
  
 ![Poster](AXILLA_IITKharagpur_SRM_AgriPricePredictionSystem.pdf)
  

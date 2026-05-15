@@ -5,7 +5,7 @@ An AI-powered crop price forecasting system that helps farmers make smarter sell
 ---
  
 ## Live Demo
-👉 [Click here to open the app](https://agri-price-prediction-system-z6auo23a9yd7otnqqwjtoe.streamlit.app/)
+[Click here to open the app](https://agri-price-prediction-system-z6auo23a9yd7otnqqwjtoe.streamlit.app/)
  
 ---
  
@@ -64,11 +64,11 @@ AXILLA Final/
 └── README.md
 ```
  
-> ⚠️ `data.csv` and `.pkl` model files are not included in this repo due to size limits.
+> `data.csv` and `.pkl` model files are not included in this repo due to size limits.
  
 ---
  
-## ⚙️ Setup Instructions
+## Setup Instructions
  
 ### 1. Clone the repository
 ```bash
@@ -99,7 +99,7 @@ streamlit run app.py
  
 ---
  
-## 📦 Requirements
+## Requirements
  
 ```
 streamlit
@@ -112,7 +112,7 @@ matplotlib
  
 ---
  
-## 🌍 Markets Covered
+## Markets Covered
  
 | Market | Location |
 |--------|----------|

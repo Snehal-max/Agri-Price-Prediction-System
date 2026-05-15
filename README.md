@@ -149,9 +149,9 @@ matplotlib
  
 ---
 
-## Power Point Presentation 
- 
-![PPT](AXILLA_KisanPrice_Ideathon2026.pptx)
+## PowerPoint Presentation
+
+📊 [Download Presentation — AXILLA KisanPrice Ideathon 2026](AXILLA_KisanPrice_Ideathon2026.pptx)
  
 ---
  

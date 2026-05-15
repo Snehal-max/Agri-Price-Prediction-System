@@ -5,7 +5,7 @@ An AI-powered crop price forecasting system that helps farmers make smarter sell
 ---
  
 ## Live Demo
-[Click here to open the app](https://agri-price-prediction-system-z6auo23a9yd7otnqqwjtoe.streamlit.app/)
+[Click here to open the vdo](https://anonmp4.help/v/kBq1r7hoFLgWdPa)
  
 ---
  
@@ -146,6 +146,12 @@ matplotlib
 ## Innovation Poster
  
 ![Poster](AXILLA_IITKharagpur_SRM_AgriPricePredictionSystem.pdf)
+ 
+---
+
+## Power Point Presentation 
+ 
+![PPT](AXILLA_KisanPrice_Ideathon2026.pptx)
  
 ---
  
